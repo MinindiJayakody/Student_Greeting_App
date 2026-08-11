@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This beginner-friendly Flutter application allows a student to type a name and display a personalised greeting. It 
+demonstrates the basic structure of a Flutter project and introduces simple user-interface widgets, input handling, 
+validation, functions, and state updates. 
 
 A few resources to get you started if this is your first Flutter project:
 
